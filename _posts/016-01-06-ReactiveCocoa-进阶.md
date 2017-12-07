@@ -1,14 +1,12 @@
 layout:     post
-title:      ReactiveCocoa 进阶
-subtitle:   函数式编程框架 ReactiveCocoa 进阶
-date:       2017-01-06
+title:      菜鸟
+subtitle:  第一篇博客
+date:      2017-12-07
 author:     BY
-header-img: img/post-bg-ios9-web.jpg
+header-img: 
 catalog: true
 tags:
-    - iOS
-    - ReactiveCocoa
-    - 函数式编程
-    - 开源框架
 ---
 # 
+#抄的教程
+http://www.jianshu.com/p/e68fba58f75c
