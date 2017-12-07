@@ -5,14 +5,14 @@ header-img: img/post-bg-desk.jpg
 email: 1183141150@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 微风细雨, 李治成, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://jtlizhicheng888.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "兵来将挡，水来土掩!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -72,7 +72,7 @@ disqus_username: sysemoutlzc
 
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: ''            # Format: UA-xxxxxx-xx
 ga_domain: auto
 
 
