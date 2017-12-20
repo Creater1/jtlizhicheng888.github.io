@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      微信
+subtitle:   微信
+date:       2017-12-20
+author:     MR.Li
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - java
+    - 生活
+---
+
+# bug
+
+javax/annotation/PostConstruct的错误主要是tomcat配置问题，项目-》属性-》target runtime-》tomcat打钩就好 
